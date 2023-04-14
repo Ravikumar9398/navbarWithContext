@@ -1,0 +1,36 @@
+.home-container-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: white;
+  height: 100vh;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.home-image {
+  width: 100px;
+  height: 100px;
+}
+
+.home-heading-light {
+  color: #000000;
+}
+
+.home-container-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+  flex-grow: 1;
+
+  width: 100%;
+}
+
+.home-heading-dark {
+  color: white;
+}

@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+.not-found-container-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 100vh;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.not-found-image {
+  width: 280px;
+  height: 280px;
+}
+
+.not-found-heading-light {
+  color: #333333;
+  font-weight: normal;
+}
+
+.not-found-para-light {
+  color: #334155;
+}
+
+.not-found-container-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.not-found-heading-dark {
+  color: white;
+  font-weight: normal;
+}
+
+.not-found-para-dark {
+  color: #dcdcdc;
+}
